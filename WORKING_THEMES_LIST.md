@@ -1,6 +1,6 @@
 # Powercord
 [Fluent](https://github.com/DiscordStyles/Fluent)
-Works fine
+Works fully fine
 
 # BetterDiscord
 [Discord+](https://betterdiscord.app/theme/Discord%2B)
